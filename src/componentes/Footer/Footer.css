@@ -1,0 +1,33 @@
+.footer {
+background-color: #6278F7;
+display: flex;
+justify-content: space-around;
+height: 100px;
+align-items: center;
+}
+
+.icons-container {
+  margin: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.logo-container {
+  margin: 0;
+  display: flex;
+}
+
+.icons {
+ height: 20px;
+}
+
+.logo{
+  height: 45px;
+}
+
+#footer-text {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
